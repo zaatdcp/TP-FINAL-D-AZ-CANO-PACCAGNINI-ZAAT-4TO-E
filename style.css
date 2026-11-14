@@ -23,4 +23,6 @@ nav a {
 .foto{
     width: 50px;
     height:60px;
+    display: inline;
+    margin-right: 15px;
 }
