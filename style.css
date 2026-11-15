@@ -1,5 +1,6 @@
 h1{
     text-align: center;
+    color: 84, 77, 0;
 }
 header, nav, main, footer {
     padding: 20px;
@@ -20,7 +21,7 @@ header, nav, main, footer {
 }
 nav a {
     text-decoration: none;
-    color: 84, 77, 0;
+    color: 0, 0, 0;
     font-weight: bold;
 }
 .foto{
