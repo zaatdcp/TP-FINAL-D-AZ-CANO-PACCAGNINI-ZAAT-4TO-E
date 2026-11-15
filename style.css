@@ -1,7 +1,9 @@
 h1{
     text-align: center;
     color: #544d00;
-
+}
+.intro{
+    text-align: center;
 }
 header, nav, main, footer {
     padding: 20px;
