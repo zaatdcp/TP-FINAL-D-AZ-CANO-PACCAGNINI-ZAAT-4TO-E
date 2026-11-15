@@ -1,6 +1,7 @@
 h1{
     text-align: center;
     color: #544d00;
+
 }
 header, nav, main, footer {
     padding: 20px;
@@ -32,4 +33,7 @@ nav a {
 }
 nav{
     margin-top: -20px;
+}
+caja6{
+    margin-left: 400px;
 }
