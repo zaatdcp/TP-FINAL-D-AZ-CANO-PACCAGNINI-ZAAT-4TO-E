@@ -30,3 +30,6 @@ nav a {
     display: inline;
     margin-right: 15px;
 }
+nav{
+    margin-top: -40px;
+}
