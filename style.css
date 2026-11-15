@@ -8,10 +8,6 @@ header, nav, main, footer {
     border-radius: 5px;
     box-shadow: 0 0 20px rgba(0, 0, 0, 1);
 }
-nav ul {
-    list-style: none;
-    padding: 0;
-}
 
 .seccion {
     display: inline;
@@ -24,7 +20,7 @@ nav ul {
 }
 nav a {
     text-decoration: none;
-    color: #333;
+    color: 84, 77, 0;
     font-weight: bold;
 }
 .foto{
