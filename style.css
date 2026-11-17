@@ -77,8 +77,10 @@ h2{
 #fotolorde{
     float: right;
     height: 390px;
+    margin-left: 5px;
 }
 #fotokendrick{
     float: right;
     height: 330px;
+    margin-left: 5px;
 }
