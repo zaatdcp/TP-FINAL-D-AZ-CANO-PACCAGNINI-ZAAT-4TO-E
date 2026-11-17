@@ -2,6 +2,7 @@
     text-align: left;
     text-decoration: underline;
     color: #544d00;
+    margin-top: -10px;
 }
 h1{
     text-align: center;
@@ -62,6 +63,7 @@ main{
 }
 h2{
     color: red;
+    margin-top: -20px;
 }
 #caja8{
     margin-left: 200px;
