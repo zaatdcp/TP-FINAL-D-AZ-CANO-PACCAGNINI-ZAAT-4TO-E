@@ -129,3 +129,9 @@ h2{
     margin-top: -23px;
     margin-left: 35px;
 }
+#intro1{
+    text-align: left;
+    text-decoration: underline;
+    color: #544d00;
+    margin-top: -10px;
+}
