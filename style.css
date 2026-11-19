@@ -34,6 +34,7 @@ header, main, footer {
 
 .seccion {
     display: inline;
+    margin: 10px 15px;
 }
 nav a {
     text-decoration: none;
@@ -47,7 +48,7 @@ nav a {
     margin-right: 15px;
 }
 nav{
-    margin-top: 10px;
+    margin-top: 15px;
 }
 
 footer{
@@ -63,46 +64,7 @@ h2{
     margin-top: -20px;
 }
 
-#fotolorde{
-    float: right;
-    height: 390px;
-    margin-left: 5px;
-}
-#fotokendrick{
-    float: right;
-    height: 330px;
-    margin-left: 5px;
-}
 
-#fotobeyonce{
-    float: right;
-    height: 300px;
-    margin-left: 8px;
-    width: 470px;
-    margin-top: 33px;
-}
-
-#logo1{
-    width: 65px;
-    height: 65px;
-    float:right;
-    margin-top: -23px;
-    margin-left: 35px;
-}
-#logo2{
-    width: 65px;
-    height: 65px;
-    float:right;
-    margin-top: -23px;
-    margin-left: 35px;
-}
-#logo3{
-    width: 65px;
-    height: 65px;
-    float:right;
-    margin-top: -23px;
-    margin-left: 35px;
-}
 #intro1{
     text-align: left;
     text-decoration: underline;
