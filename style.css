@@ -8,9 +8,11 @@ body{
     margin-top: -10px;
 }
 #logo{
-    width: 100px;
-    height: 100px;
-    margin: 0%;
+    width: 65px;
+    height: 65px;
+    float:right;
+    margin-top: -60px;
+    margin-left: 35px;
 }
 h1{
     text-align: center;
