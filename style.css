@@ -94,3 +94,9 @@ h2{
     margin-left: 15px;
     margin-bottom: 10px;
 }
+#logo1, #logo2, #logo3{
+    width: 65px;
+    height: 65px;
+    float: right;
+    margin-left: 15px;
+}
