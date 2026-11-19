@@ -4,11 +4,11 @@ body{
     padding: 10px;
     font-family: 'Times New Roman', Times, serif;
 }
-#intro{
+#intro,#intro1{
     text-align: left;
     text-decoration: underline;
     color: #544d00;
-    margin-top: -10px;
+    margin-top: 0px;
 }
 #logo{
     width: 65px;
@@ -20,27 +20,20 @@ body{
 h1{
     text-align: center;
     color: #544d00;
+   margin-top: 25px; 
 }
-.intro{
-    text-align: center;
-}
-header, nav, main, footer {
+
+header, main, footer {
     padding: 20px;
-    margin: 10px;
+    margin: 15px auto;
     background: #ffeec1;
-    border-radius: 5px;
-    box-shadow: 0 0 15px rgba(0, 0, 0, 1);
-    font-family: 'Times New Roman', Times, serif;
+    border-radius: 8px;
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.7);
+    max-width: 1200px;
 }
 
 .seccion {
     display: inline;
-}
-#caja3{
-    margin-left: 180px;
-}
-#caja2{
-    margin-left: 180px;
 }
 nav a {
     text-decoration: none;
@@ -56,35 +49,20 @@ nav a {
 nav{
     margin-top: 10px;
 }
-#caja6{
-    margin-left: 170px;
-}
-#caja5{
-    margin-left: 327px;
-}
+
 footer{
     margin-top: 20px;
 }
 main{
     margin-top: 20px;
 }
-.lorde{
-    height: 40px;
-}
+
 
 h2{
     color: red;
     margin-top: -20px;
 }
-#caja8{
-    margin-left: 200px;
-}
-#caja9{
-    margin-left: 300px;
-}
-.kendrick{
-    height: 40px;
-}
+
 #fotolorde{
     float: right;
     height: 390px;
@@ -95,12 +73,7 @@ h2{
     height: 330px;
     margin-left: 5px;
 }
-#caja11{
-    margin-left: 182px;
-}
-#caja12{
-    margin-left: 270px;
-}
+
 #fotobeyonce{
     float: right;
     height: 300px;
@@ -108,9 +81,7 @@ h2{
     width: 470px;
     margin-top: 33px;
 }
-.beyonce{
-    height: 40px;
-}
+
 #logo1{
     width: 65px;
     height: 65px;
