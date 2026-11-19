@@ -60,7 +60,11 @@ footer{
 main{
     margin-top: 20px;
 }
-m
+main p{
+    text-align: justify;
+    font-size: 18px;
+    margin-bottom: 20px;
+}
 
 h2{
     color: #8b0000;
