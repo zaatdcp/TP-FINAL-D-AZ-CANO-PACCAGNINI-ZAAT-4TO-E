@@ -135,9 +135,10 @@ h2{
     color: #544d00;
     margin-top: -10px;
 }
-#numero{
+.numero{
     text-decoration: underline;
     text-align: center;
-    margin-top: 30px;
+    margin-top: 50px;
     font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
 }
